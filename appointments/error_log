@@ -1,0 +1,102 @@
+[25-May-2025 02:22:43 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dentexap/draturano.dentexapro.com/config.php:15
+Stack trace:
+#0 /home/dentexap/draturano.dentexapro.com/config.php(15): mysqli->__construct()
+#1 /home/dentexap/draturano.dentexapro.com/appointments/index.php(4): require_once('/home/dentexap/...')
+#2 {main}
+  thrown in /home/dentexap/draturano.dentexapro.com/config.php on line 15
+[25-May-2025 02:22:44 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dentexap/draturano.dentexapro.com/config.php:15
+Stack trace:
+#0 /home/dentexap/draturano.dentexapro.com/config.php(15): mysqli->__construct()
+#1 /home/dentexap/draturano.dentexapro.com/appointments/index.php(4): require_once('/home/dentexap/...')
+#2 {main}
+  thrown in /home/dentexap/draturano.dentexapro.com/config.php on line 15
+[25-May-2025 02:22:49 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dentexap/draturano.dentexapro.com/config.php:15
+Stack trace:
+#0 /home/dentexap/draturano.dentexapro.com/config.php(15): mysqli->__construct()
+#1 /home/dentexap/draturano.dentexapro.com/appointments/index.php(4): require_once('/home/dentexap/...')
+#2 {main}
+  thrown in /home/dentexap/draturano.dentexapro.com/config.php on line 15
+[25-May-2025 02:22:49 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dentexap/draturano.dentexapro.com/config.php:15
+Stack trace:
+#0 /home/dentexap/draturano.dentexapro.com/config.php(15): mysqli->__construct()
+#1 /home/dentexap/draturano.dentexapro.com/appointments/index.php(4): require_once('/home/dentexap/...')
+#2 {main}
+  thrown in /home/dentexap/draturano.dentexapro.com/config.php on line 15
+[25-May-2025 02:22:51 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dentexap/draturano.dentexapro.com/config.php:15
+Stack trace:
+#0 /home/dentexap/draturano.dentexapro.com/config.php(15): mysqli->__construct()
+#1 /home/dentexap/draturano.dentexapro.com/appointments/index.php(4): require_once('/home/dentexap/...')
+#2 {main}
+  thrown in /home/dentexap/draturano.dentexapro.com/config.php on line 15
+[25-May-2025 02:22:52 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dentexap/draturano.dentexapro.com/config.php:15
+Stack trace:
+#0 /home/dentexap/draturano.dentexapro.com/config.php(15): mysqli->__construct()
+#1 /home/dentexap/draturano.dentexapro.com/appointments/index.php(4): require_once('/home/dentexap/...')
+#2 {main}
+  thrown in /home/dentexap/draturano.dentexapro.com/config.php on line 15
+[25-May-2025 02:22:54 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dentexap/draturano.dentexapro.com/config.php:15
+Stack trace:
+#0 /home/dentexap/draturano.dentexapro.com/config.php(15): mysqli->__construct()
+#1 /home/dentexap/draturano.dentexapro.com/appointments/index.php(4): require_once('/home/dentexap/...')
+#2 {main}
+  thrown in /home/dentexap/draturano.dentexapro.com/config.php on line 15
+[25-May-2025 02:22:55 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dentexap/draturano.dentexapro.com/config.php:15
+Stack trace:
+#0 /home/dentexap/draturano.dentexapro.com/config.php(15): mysqli->__construct()
+#1 /home/dentexap/draturano.dentexapro.com/appointments/index.php(4): require_once('/home/dentexap/...')
+#2 {main}
+  thrown in /home/dentexap/draturano.dentexapro.com/config.php on line 15
+[25-May-2025 02:22:57 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dentexap/draturano.dentexapro.com/config.php:15
+Stack trace:
+#0 /home/dentexap/draturano.dentexapro.com/config.php(15): mysqli->__construct()
+#1 /home/dentexap/draturano.dentexapro.com/appointments/index.php(4): require_once('/home/dentexap/...')
+#2 {main}
+  thrown in /home/dentexap/draturano.dentexapro.com/config.php on line 15
+[25-May-2025 02:22:57 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dentexap/draturano.dentexapro.com/config.php:15
+Stack trace:
+#0 /home/dentexap/draturano.dentexapro.com/config.php(15): mysqli->__construct()
+#1 /home/dentexap/draturano.dentexapro.com/appointments/index.php(4): require_once('/home/dentexap/...')
+#2 {main}
+  thrown in /home/dentexap/draturano.dentexapro.com/config.php on line 15
+[25-May-2025 02:22:58 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dentexap/draturano.dentexapro.com/config.php:15
+Stack trace:
+#0 /home/dentexap/draturano.dentexapro.com/config.php(15): mysqli->__construct()
+#1 /home/dentexap/draturano.dentexapro.com/appointments/index.php(4): require_once('/home/dentexap/...')
+#2 {main}
+  thrown in /home/dentexap/draturano.dentexapro.com/config.php on line 15
+[25-May-2025 02:22:59 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dentexap/draturano.dentexapro.com/config.php:15
+Stack trace:
+#0 /home/dentexap/draturano.dentexapro.com/config.php(15): mysqli->__construct()
+#1 /home/dentexap/draturano.dentexapro.com/appointments/index.php(4): require_once('/home/dentexap/...')
+#2 {main}
+  thrown in /home/dentexap/draturano.dentexapro.com/config.php on line 15
+[25-May-2025 02:23:00 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dentexap/draturano.dentexapro.com/config.php:15
+Stack trace:
+#0 /home/dentexap/draturano.dentexapro.com/config.php(15): mysqli->__construct()
+#1 /home/dentexap/draturano.dentexapro.com/appointments/index.php(4): require_once('/home/dentexap/...')
+#2 {main}
+  thrown in /home/dentexap/draturano.dentexapro.com/config.php on line 15
+[25-May-2025 02:23:05 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dentexap/draturano.dentexapro.com/config.php:15
+Stack trace:
+#0 /home/dentexap/draturano.dentexapro.com/config.php(15): mysqli->__construct()
+#1 /home/dentexap/draturano.dentexapro.com/appointments/index.php(4): require_once('/home/dentexap/...')
+#2 {main}
+  thrown in /home/dentexap/draturano.dentexapro.com/config.php on line 15
+[25-May-2025 02:23:05 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dentexap/draturano.dentexapro.com/config.php:15
+Stack trace:
+#0 /home/dentexap/draturano.dentexapro.com/config.php(15): mysqli->__construct()
+#1 /home/dentexap/draturano.dentexapro.com/appointments/index.php(4): require_once('/home/dentexap/...')
+#2 {main}
+  thrown in /home/dentexap/draturano.dentexapro.com/config.php on line 15
+[25-May-2025 02:23:08 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dentexap/draturano.dentexapro.com/config.php:15
+Stack trace:
+#0 /home/dentexap/draturano.dentexapro.com/config.php(15): mysqli->__construct()
+#1 /home/dentexap/draturano.dentexapro.com/appointments/index.php(4): require_once('/home/dentexap/...')
+#2 {main}
+  thrown in /home/dentexap/draturano.dentexapro.com/config.php on line 15
+[25-May-2025 02:23:09 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dentexap/draturano.dentexapro.com/config.php:15
+Stack trace:
+#0 /home/dentexap/draturano.dentexapro.com/config.php(15): mysqli->__construct()
+#1 /home/dentexap/draturano.dentexapro.com/appointments/index.php(4): require_once('/home/dentexap/...')
+#2 {main}
+  thrown in /home/dentexap/draturano.dentexapro.com/config.php on line 15

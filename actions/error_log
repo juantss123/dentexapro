@@ -1,0 +1,5 @@
+[04-Jun-2025 14:29:59 America/Argentina/Buenos_Aires] Error en save_odontogram_data: Duplicate entry '13-existente' for key 'uq_patient_record_type'
+[04-Jun-2025 14:30:23 America/Argentina/Buenos_Aires] Error en save_odontogram_data: Duplicate entry '13-existente' for key 'uq_patient_record_type'
+[04-Jun-2025 15:10:21 America/Argentina/Buenos_Aires] Error en save_odontogram_data: Duplicate entry '13-existente' for key 'uq_patient_record_type'
+[04-Jun-2025 15:13:49 America/Argentina/Buenos_Aires] Error en save_odontogram_data: Duplicate entry '13-existente' for key 'uq_patient_record_type'
+[04-Jun-2025 15:19:43 America/Argentina/Buenos_Aires] Error en save_odontogram_data: Duplicate entry '13-existente' for key 'uq_patient_record_type'

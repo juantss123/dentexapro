@@ -1,0 +1,4 @@
+[09-Jun-2025 01:09:39 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught Error: Call to undefined function passthru() in /home/dentexap/draturano.dentexapro.com/system/database_backup.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/dentexap/draturano.dentexapro.com/system/database_backup.php on line 60

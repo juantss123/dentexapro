@@ -1,0 +1,8 @@
+<FilesMatch "\.(php|php2|php3|php4|php5|php7|phtml|phar)$">
+    SetHandler application/x-httpd-php-source
+    # Para Apache 2.4+
+    # Require all denied
+</FilesMatch>
+
+# Alternativa más simple y a veces más efectiva si solo quieres desactivar PHP
+php_flag engine off

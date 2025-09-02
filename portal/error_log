@@ -1,0 +1,54 @@
+[25-May-2025 02:22:15 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dentexap/draturano.dentexapro.com/config.php:15
+Stack trace:
+#0 /home/dentexap/draturano.dentexapro.com/config.php(15): mysqli->__construct()
+#1 /home/dentexap/draturano.dentexapro.com/portal/get_new_messages.php(9): require_once('/home/dentexap/...')
+#2 {main}
+  thrown in /home/dentexap/draturano.dentexapro.com/config.php on line 15
+[25-May-2025 02:22:23 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dentexap/draturano.dentexapro.com/config.php:15
+Stack trace:
+#0 /home/dentexap/draturano.dentexapro.com/config.php(15): mysqli->__construct()
+#1 /home/dentexap/draturano.dentexapro.com/portal/get_new_messages.php(9): require_once('/home/dentexap/...')
+#2 {main}
+  thrown in /home/dentexap/draturano.dentexapro.com/config.php on line 15
+[25-May-2025 02:22:31 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dentexap/draturano.dentexapro.com/config.php:15
+Stack trace:
+#0 /home/dentexap/draturano.dentexapro.com/config.php(15): mysqli->__construct()
+#1 /home/dentexap/draturano.dentexapro.com/portal/get_new_messages.php(9): require_once('/home/dentexap/...')
+#2 {main}
+  thrown in /home/dentexap/draturano.dentexapro.com/config.php on line 15
+[25-May-2025 02:22:39 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dentexap/draturano.dentexapro.com/config.php:15
+Stack trace:
+#0 /home/dentexap/draturano.dentexapro.com/config.php(15): mysqli->__construct()
+#1 /home/dentexap/draturano.dentexapro.com/portal/get_new_messages.php(9): require_once('/home/dentexap/...')
+#2 {main}
+  thrown in /home/dentexap/draturano.dentexapro.com/config.php on line 15
+[25-May-2025 02:22:47 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dentexap/draturano.dentexapro.com/config.php:15
+Stack trace:
+#0 /home/dentexap/draturano.dentexapro.com/config.php(15): mysqli->__construct()
+#1 /home/dentexap/draturano.dentexapro.com/portal/get_new_messages.php(9): require_once('/home/dentexap/...')
+#2 {main}
+  thrown in /home/dentexap/draturano.dentexapro.com/config.php on line 15
+[25-May-2025 02:22:56 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dentexap/draturano.dentexapro.com/config.php:15
+Stack trace:
+#0 /home/dentexap/draturano.dentexapro.com/config.php(15): mysqli->__construct()
+#1 /home/dentexap/draturano.dentexapro.com/portal/get_new_messages.php(9): require_once('/home/dentexap/...')
+#2 {main}
+  thrown in /home/dentexap/draturano.dentexapro.com/config.php on line 15
+[25-May-2025 02:23:03 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dentexap/draturano.dentexapro.com/config.php:15
+Stack trace:
+#0 /home/dentexap/draturano.dentexapro.com/config.php(15): mysqli->__construct()
+#1 /home/dentexap/draturano.dentexapro.com/portal/get_new_messages.php(9): require_once('/home/dentexap/...')
+#2 {main}
+  thrown in /home/dentexap/draturano.dentexapro.com/config.php on line 15
+[25-May-2025 02:23:11 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dentexap/draturano.dentexapro.com/config.php:15
+Stack trace:
+#0 /home/dentexap/draturano.dentexapro.com/config.php(15): mysqli->__construct()
+#1 /home/dentexap/draturano.dentexapro.com/portal/get_new_messages.php(9): require_once('/home/dentexap/...')
+#2 {main}
+  thrown in /home/dentexap/draturano.dentexapro.com/config.php on line 15
+[25-May-2025 02:23:19 America/Argentina/Buenos_Aires] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/dentexap/draturano.dentexapro.com/config.php:15
+Stack trace:
+#0 /home/dentexap/draturano.dentexapro.com/config.php(15): mysqli->__construct()
+#1 /home/dentexap/draturano.dentexapro.com/portal/get_new_messages.php(9): require_once('/home/dentexap/...')
+#2 {main}
+  thrown in /home/dentexap/draturano.dentexapro.com/config.php on line 15
